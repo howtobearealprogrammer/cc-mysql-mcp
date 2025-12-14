@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/danvds/source/AI_TOOLING/performant_mysql_mcp/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
